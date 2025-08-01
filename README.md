@@ -77,7 +77,7 @@ Your browser should open with the running application.
 
 The repository is organized for clarity and scalability:
 
-
+```
 voice-sentiment-sarcasm/
 ├── app/
 │   └── streamlit_app.py         # The Streamlit frontend code
@@ -97,7 +97,7 @@ voice-sentiment-sarcasm/
 ├── main.py                      # Main backend runner (for non-Streamlit use)
 ├── README.md                    # You are here!
 └── requirements.txt             # Project dependencies
-
+```
 
 -----
 
